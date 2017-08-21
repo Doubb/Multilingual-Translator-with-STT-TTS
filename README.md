@@ -9,6 +9,17 @@ Also, I referenced some parts of the project by a Korean developer, Chandong83.
 
 Here is the link -> http://blog.naver.com/PostView.nhn?blogId=chandong83&logNo=220773230509&categoryNo=65&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=20&userTopListManageOpen=false&userTopListCurrentPage=1
 
+# Supported Language
+1. English
+2. Korean
+3. Japanese
+4. Chinese
+5. German
+6. French
+7. Dutch
+8. Spanish
+9. Portuguese
+10. Russian
 
 # Usage
 1. Clone this repository
