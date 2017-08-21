@@ -3,6 +3,8 @@ This is a multilingual translator using Speech-to-text and Text-to-speech.
 
 I used Google Cloud Speech API and Translation API.
 
+So, you must have your own Google Cloud account with billing and those APIs. 
+
 Also, I referenced some parts of the project by a Korean developer, Chandong83.
 
 Here is the link -> http://blog.naver.com/PostView.nhn?blogId=chandong83&logNo=220773230509&categoryNo=65&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=20&userTopListManageOpen=false&userTopListCurrentPage=1
